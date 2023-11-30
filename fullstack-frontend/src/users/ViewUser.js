@@ -42,6 +42,10 @@ export default function ViewBook() {
                   <b>Cost:</b>
                   {book.cost}
                 </li>
+                <li className="list-group-item">
+                  <b>Description:</b>
+                   {book.description}
+                </li>
               </ul>
             </div>
           </div>
