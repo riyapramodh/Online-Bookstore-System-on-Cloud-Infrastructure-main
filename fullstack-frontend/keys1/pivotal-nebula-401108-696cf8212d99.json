@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pivotal-nebula-401108",
+  "private_key_id": "696cf8212d995bad9baf54b9702cd3cc0c1bec5b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQBQrdNMe5JuXY\npfnuKoS+6h9+4H7C62/9LcZjcax4jUaiXrYAGjn3Um9cMYZ41xwd73MNW56WGm4V\n4opWWheRH8l8eK4Rm8nWhwFCNuyc8g+iEnwAvxGPp2Ea7E/pr1cr2YhE28tfEfcJ\nq6UcDMIwdOuwCLeTaFs7ipvIq0XI12jTmrNbxnw0X6ayTmyTd+oEzJRpvaAUsxBW\nVauSsvKuNsMKb7pU8YoqRCtYXHWhk3V3Hnb1h+Vaz6WeRc0dLUOoxm7krXVJQmbk\nDmI+F5m8x/zf99piXac0++uY+Xq9F+oic6Mmt+jG3a6BExuPaGwzVlYOM69iv980\nofXRPEfdAgMBAAECggEAZwVoSP9fvpHGGVKyAcLq9UYsDQEPpmdFkkS+UPe2LAoD\nplxzlH9on9Uis60PZP9bvHOfLklms/4o8Qu96WA69bOhbNSzmKLoBifcdreO3XeA\nSIsRAKmf/94sWFIajag56syUEU4tXUsfZpmsbsTe03LEWu0mRYnUTRurZWl1aS5o\nSnp1UnkQ8SJYM4NUJbEYlyTYqSdAU2I1WdGAJY7l1Gby1ZBP2b5Ss5s89LCJ4/10\nVgAao73kksfNqErKTiIgJGH06BQf8pVO1oskMOW/zRRO4omL+xQsnHItpLrgaPg6\ndO7mW5JL/KZZDSkWRdDGuIeuK3Kk0J1MdIC2zilnnQKBgQD5Nms+2dNunFy/M+20\nVVTUPFBWCx0kLiNWxeryot3k3QCmZqMyNed5wLU+hszGttHC+JSqhS03pkNaXoC6\nibkft9QoMA/LDlg+ZhXawyhz3GSxbthuSSWA5j8vaYE2epkG6x4ME8XV0AaEPn5q\nmrgFcIv7pScG2qk9QYnrKlGGvwKBgQDVr2o/weu06iXl2KkElZUQJlFajRmTJ8sm\nev75NeEoc1Ju+tW1l2gsLShKUuTu4yB4G8Tw2yUU2dAVE/W7nE7KpPd4wCOZmRZ1\nSNmAoDPRU0xFky1Mx+AzPOnZnyyiNxXjPxW1R2QxHjYnpzr2EtGCIKumaXQDH667\nXT2bTqHUYwKBgQCzXLdTRPMnaOJXusgaQlALcF1hkB4pLAvDKC8w8odBcM5G9Rf/\ny0wOFORdXCeF3Y6bBM367F7e7osLP3jmyLi0W1oWkoDLZEeeoVqZWFyFBtpx2ZVr\nyrlzTEOtnAGjdBkvIYk+p/x7Jn2KMHBLyY8oWxhkxTiRdk7YB5N77bk/gQKBgDiT\noUYQSiA0fqREoTudf0IvYwreoQ7dUmR13FyPb3YOUp0fvMW/uM05h5lmKUc2y7oB\nYDuFSmQi530tM7rgv9vXoc5O0R4x8khLaYss34tkyqUBOtVBdpMaZbBA/MhWXW01\nnsHIjTaUETKejHXqtZ4GmGwPL7BECzeAkHc2cpKRAoGBAPj8yD72dkR4XorDOxWa\nmQOU4dIe+NnPnvcFIIYJrqLEeeTeS09vvOkXw4C/wK30oftgoBPlEmLfnHDIB+1/\noK+VLcWym7wfyb0/7+pN7K5eK9CETQ2gbadGDj1W5ZTDqGHKfhAAJd8wcC9N2f6R\n8KzEqn4ZR5dgv4hpLa2IWalV\n-----END PRIVATE KEY-----\n",
+  "client_email": "bookstore-riya@pivotal-nebula-401108.iam.gserviceaccount.com",
+  "client_id": "116587196662531940779",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bookstore-riya%40pivotal-nebula-401108.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
